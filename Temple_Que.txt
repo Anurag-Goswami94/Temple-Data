@@ -1,0 +1,10 @@
+1: Which state has the highest number of tempels.
+2: Which temple is the most far-away from your home town (Kolkata).
+3: which temple is the most nearest temple from your home town (Kolkata).
+4: Top 10 states having most famouse temples in india. 
+5: Top 5 cities having more than 1 temple.
+6: top 5 temples nearest to each metro city (Mumbai, Delhi, Chennai, Kolkata). 
+
+
+
+https://www.kaggle.com/datasets/kkhandekar/new-ancient-temples-india/code
